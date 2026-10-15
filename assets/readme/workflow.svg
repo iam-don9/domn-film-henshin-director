@@ -1,42 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">domn-film-henshin-director 工作流</title>
-  <desc id="desc">变身动作指导：解构慢 · 重组快 · 亮相静。阶段：T 判定 → A 定锚点 → B 排四拍 → C 配语法 → S 成稿。</desc>
-  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
-  <g id="title-block" transform="translate(56 40)">
-    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–5</text>
-    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">变身动作指导：解构慢 · 重组快 · 亮相静</text>
-  </g>
-  <g id="project-proof">
-    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#DD3A2A" stroke-width="3"/>
-    <path d="M233.0 174 L247.0 180 L233.0 186 Z" fill="#DD3A2A"/>
-    <path d="M473.0 174 L487.0 180 L473.0 186 Z" fill="#DD3A2A"/>
-    <path d="M713.0 174 L727.0 180 L713.0 186 Z" fill="#DD3A2A"/>
-    <path d="M953.0 174 L967.0 180 L953.0 186 Z" fill="#DD3A2A"/>
-    <g id="stage-1" transform="translate(120 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#DD3A2A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">T 判定</text>
-    </g>
-    <g id="stage-2" transform="translate(360 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#DD3A2A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">A 定锚点</text>
-    </g>
-    <g id="stage-3" transform="translate(600 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#DD3A2A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">B 排四拍</text>
-    </g>
-    <g id="stage-4" transform="translate(840 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#DD3A2A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">C 配语法</text>
-    </g>
-    <g id="stage-5" transform="translate(1080 180)">
-      <circle r="30" fill="#DD3A2A" stroke="#DD3A2A" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">5</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">S 成稿</text>
-    </g>
-  </g>
-  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">标志物全程可见，是认人唯一凭据</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<title>domn-film-henshin-director 工作流：判类型→定锚点→排四拍→配语法→成稿</title>
+<desc>形态单向收敛 OLD→HALF→NEW→DONE，不回退；咬合锁定点=★爆闪。双参考图同源，锚点不灭。</desc>
+<rect width="0" height="0" fill="#0C0F13"/>
+<circle cx="180" cy="170" r="160" fill="#0C0F13" stroke="#DD3A2A" stroke-width="3"/><text x="180" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#DD3A2A" font-weight="700" text-anchor="middle">OLD</text><line x1="355" y1="210" x2="395" y2="210" stroke="#DD3A2A" stroke-width="3"/><polygon points="402,203 390,214 410,214" fill="#DD3A2A" stroke="none" stroke-width="2"/><circle cx="420" cy="170" r="160" fill="#3A1A14" stroke="#DD3A2A" stroke-width="3"/><text x="420" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#DD3A2A" font-weight="700" text-anchor="middle">HALF</text><line x1="595" y1="210" x2="635" y2="210" stroke="#DD3A2A" stroke-width="3"/><polygon points="642,203 630,214 650,214" fill="#DD3A2A" stroke="none" stroke-width="2"/><circle cx="660" cy="170" r="160" fill="#3A1A14" stroke="#DD3A2A" stroke-width="3"/><text x="660" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#DD3A2A" font-weight="700" text-anchor="middle">NEW</text><line x1="835" y1="210" x2="875" y2="210" stroke="#DD3A2A" stroke-width="3"/><polygon points="882,203 870,214 890,214" fill="#DD3A2A" stroke="none" stroke-width="2"/><circle cx="960" cy="170" r="150" fill="#DD3A2A" stroke="#DD3A2A" stroke-width="3"/><text x="960" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#E8EAED" font-weight="700" text-anchor="middle">DONE</text><polygon points="820,90 832,118 862,118 838,136 848,164 820,146 792,164 802,136 778,118 808,118" fill="#DD3A2A" stroke="none" stroke-width="2"/><text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#DD3A2A" font-weight="700" text-anchor="start">形态单向收敛 · 不回退</text><text x="60" y="315" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#7E8794" font-weight="400" text-anchor="start">T0 触发 → T1 解构 → T2 重组 → T3 定格；咬合锁定=★爆闪</text>
 </svg>
